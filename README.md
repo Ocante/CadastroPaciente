@@ -54,6 +54,8 @@ Para conectar sua aplicação Python ao SQL Server, utilizei a biblioteca `pyodb
 ## 4. Interface Gráfica com Tkinter <a name="interface-grafica-tkinter"></a>
 
 A interface gráfica utiliza a biblioteca `tkinter` para criar a janela de cadastro de pacientes.
+![image](https://github.com/Ocante/CadastroPaciente/assets/63821194/fc65546f-233d-479a-b0b7-2ba4f967af7b)
+
 
 1. **Campos de Entrada:**
    - Criei campos de entrada para nome, CPF, CNS, sexo, data de nascimento e endereço.
